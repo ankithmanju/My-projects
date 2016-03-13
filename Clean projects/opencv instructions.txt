@@ -1,0 +1,35 @@
+
+How to install opencv and set up the toolkit and use in visual studio 12.
+
+Step 1 : Download the windows version of opencv from www.opencv.org
+
+Step 2 : Extract to suitable folder.
+
+Step 3 : Set system environment variable.
+		My Computer->properties-> Advanced System Settings-> Environment Variable
+		
+		Click new button in user variable window
+			variable name	: 	OPENCV_DIR
+			value			:	Path where opencv is installed(C:\opencv\build\x86\vc12)
+		
+		Edit the path in System variable.
+			i.e in the system variables tab search for variable name "path" and in the variable value add ";%OPENCV_DIR%\bin"  to the already 
+			existing string in  the variable value text box.
+			
+Step 4 : Configure to use in visual studio.
+		
+			1)Open visual studio.
+			2)Create an empty c++ project
+			3)Go to the properties tab of the project in the solution explorer.
+			4)Under debug/release properties add the property sheet present in the google drive folder(DEBUG PROPS).
+
+			
+After the above steps are done. Compile and build the project(source code).
+
+if Errors pop up please refer to the below link and video tutorial about the same 
+
+http://www.minlabz.com/how-to-install-opencv-3-0-0-on-windows-7-and-configure-with-visual-studio-2014/
+		
+		
+			
+			

@@ -1,0 +1,8 @@
+1. Run the Data Logger GUI .
+2. set the resolution.
+3. set the compression parameter
+4. set the save image location ( warning: if the folder is not present the images wont be stored! pls make sure folder is first created)
+5. check on the radio button if u need the live video stream.
+6. click on run Data logger
+
+ Have a nice day :)

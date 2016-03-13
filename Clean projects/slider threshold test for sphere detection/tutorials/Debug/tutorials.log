@@ -1,0 +1,15 @@
+﻿Build started 03-07-2015 16:13:58.
+     1>Project "c:\Users\ankith\documents\visual studio 2012\Projects\tutorials\tutorials\tutorials.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /IC:\opencv\build\x86\vc10\..\..\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "Crosshair tutorial.cpp"
+         Crosshair tutorial.cpp
+     1>c:\users\ankith\documents\visual studio 2012\projects\tutorials\tutorials\crosshair tutorial.cpp(94): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ankith\documents\visual studio 2012\projects\tutorials\tutorials\crosshair tutorial.cpp(95): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\ankith\documents\visual studio 2012\Projects\tutorials\Debug\tutorials.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\opencv\build\x86\vc10\lib opencv_ts300d.lib opencv_world300d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\ankith\documents\visual studio 2012\Projects\tutorials\Debug\tutorials.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\ankith\documents\visual studio 2012\Projects\tutorials\Debug\tutorials.lib" /MACHINE:X86 "Debug\Crosshair tutorial.obj"
+         tutorials.vcxproj -> c:\users\ankith\documents\visual studio 2012\Projects\tutorials\Debug\tutorials.exe
+     1>Done Building Project "c:\Users\ankith\documents\visual studio 2012\Projects\tutorials\tutorials\tutorials.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.94

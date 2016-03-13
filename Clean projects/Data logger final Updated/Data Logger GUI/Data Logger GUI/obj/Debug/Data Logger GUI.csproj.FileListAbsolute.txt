@@ -1,0 +1,36 @@
+G:\Opencv\Data Logger GUI\Data Logger GUI\bin\Debug\Data Logger GUI.exe.config
+G:\Opencv\Data Logger GUI\Data Logger GUI\bin\Debug\Data Logger GUI.exe
+G:\Opencv\Data Logger GUI\Data Logger GUI\bin\Debug\Data Logger GUI.pdb
+G:\Opencv\Data Logger GUI\Data Logger GUI\obj\Debug\Data Logger GUI.csprojResolveAssemblyReference.cache
+G:\Opencv\Data Logger GUI\Data Logger GUI\obj\Debug\Data_Logger_GUI.Resolution_combobox.resources
+G:\Opencv\Data Logger GUI\Data Logger GUI\obj\Debug\Data_Logger_GUI.Properties.Resources.resources
+G:\Opencv\Data Logger GUI\Data Logger GUI\obj\Debug\Data Logger GUI.csproj.GenerateResource.Cache
+G:\Opencv\Data Logger GUI\Data Logger GUI\obj\Debug\Data Logger GUI.exe
+G:\Opencv\Data Logger GUI\Data Logger GUI\obj\Debug\Data Logger GUI.pdb
+G:\New folder\Opencv\Data Logger GUI\Data Logger GUI\bin\Debug\Data Logger GUI.exe.config
+G:\New folder\Opencv\Data Logger GUI\Data Logger GUI\obj\Debug\Data Logger GUI.exe
+G:\New folder\Opencv\Data Logger GUI\Data Logger GUI\obj\Debug\Data Logger GUI.pdb
+G:\New folder\Opencv\Data Logger GUI\Data Logger GUI\obj\Debug\Data Logger GUI.csprojResolveAssemblyReference.cache
+G:\New folder\Opencv\Data Logger GUI\Data Logger GUI\obj\Debug\Data_Logger_GUI.Properties.Resources.resources
+G:\New folder\Opencv\Data Logger GUI\Data Logger GUI\obj\Debug\Data Logger GUI.csproj.GenerateResource.Cache
+G:\New folder\Opencv\Data Logger GUI\Data Logger GUI\bin\Debug\Data Logger GUI.exe
+G:\New folder\Opencv\Data Logger GUI\Data Logger GUI\bin\Debug\Data Logger GUI.pdb
+G:\New folder\Opencv\Data Logger GUI\Data Logger GUI\obj\Debug\Data_Logger_GUI.Form1.resources
+C:\Users\ankith\Google Drive\HiWi\Data Logger GUI\Data Logger GUI\bin\Debug\Data Logger GUI.exe.config
+C:\Users\ankith\Google Drive\HiWi\Data Logger GUI\Data Logger GUI\obj\Debug\Data Logger GUI.exe
+C:\Users\ankith\Google Drive\HiWi\Data Logger GUI\Data Logger GUI\obj\Debug\Data Logger GUI.pdb
+C:\Users\ankith\Google Drive\HiWi\Data Logger GUI\Data Logger GUI\bin\Debug\Data Logger GUI.exe
+C:\Users\ankith\Google Drive\HiWi\Data Logger GUI\Data Logger GUI\bin\Debug\Data Logger GUI.pdb
+C:\Users\ankith\Google Drive\HiWi\Data Logger GUI\Data Logger GUI\obj\Debug\Data Logger GUI.csprojResolveAssemblyReference.cache
+C:\Users\ankith\Google Drive\HiWi\Data Logger GUI\Data Logger GUI\obj\Debug\Data_Logger_GUI.Form1.resources
+C:\Users\ankith\Google Drive\HiWi\Data Logger GUI\Data Logger GUI\obj\Debug\Data_Logger_GUI.Properties.Resources.resources
+C:\Users\ankith\Google Drive\HiWi\Data Logger GUI\Data Logger GUI\obj\Debug\Data Logger GUI.csproj.GenerateResource.Cache
+C:\Users\ankith\Google Drive\HiWi\Data logger final Updated\Data Logger GUI\Data Logger GUI\bin\Debug\Data Logger GUI.exe.config
+C:\Users\ankith\Google Drive\HiWi\Data logger final Updated\Data Logger GUI\Data Logger GUI\obj\Debug\Data Logger GUI.exe
+C:\Users\ankith\Google Drive\HiWi\Data logger final Updated\Data Logger GUI\Data Logger GUI\obj\Debug\Data Logger GUI.pdb
+C:\Users\ankith\Google Drive\HiWi\Data logger final Updated\Data Logger GUI\Data Logger GUI\bin\Debug\Data Logger GUI.exe
+C:\Users\ankith\Google Drive\HiWi\Data logger final Updated\Data Logger GUI\Data Logger GUI\bin\Debug\Data Logger GUI.pdb
+C:\Users\ankith\Google Drive\HiWi\Data logger final Updated\Data Logger GUI\Data Logger GUI\obj\Debug\Data Logger GUI.csprojResolveAssemblyReference.cache
+C:\Users\ankith\Google Drive\HiWi\Data logger final Updated\Data Logger GUI\Data Logger GUI\obj\Debug\Data_Logger_GUI.Form1.resources
+C:\Users\ankith\Google Drive\HiWi\Data logger final Updated\Data Logger GUI\Data Logger GUI\obj\Debug\Data_Logger_GUI.Properties.Resources.resources
+C:\Users\ankith\Google Drive\HiWi\Data logger final Updated\Data Logger GUI\Data Logger GUI\obj\Debug\Data Logger GUI.csproj.GenerateResource.Cache
